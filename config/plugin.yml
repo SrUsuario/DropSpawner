@@ -1,0 +1,3 @@
+main: srusuario.dropspawner.DropSpawner
+version: 1.0.1
+name: DropSpawner
