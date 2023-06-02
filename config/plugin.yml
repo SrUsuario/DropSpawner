@@ -1,3 +1,6 @@
 main: srusuario.dropspawner.DropSpawner
-version: 1.0.1
+version: 1.0.2
 name: DropSpawner
+api-version: 1.13
+description: Plugin que dropea un spawner en el inventario al ser picado con un pico con toque de seda
+author: SrUsuario
